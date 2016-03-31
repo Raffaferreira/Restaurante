@@ -11,3 +11,4 @@ C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_serv
 C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.csproj.GenerateResource.Cache
 C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.exe
 C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.pdb
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_server-master\ExemploUserControl\obj\Debug\ExemploUserControl.csprojResolveAssemblyReference.cache

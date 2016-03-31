@@ -54,9 +54,19 @@ namespace ExemploUserControl
 		private void removerItem(object sender, EventArgs e)
 		{
 			Itens pedidoAcao = (Itens)sender;
-			balcao.recebeItem(pedidoAcao);
+			pedidoAcao.btnAcao -= removerItem;
 			panel.Controls.Remove(pedidoAcao);
+			balcao.recebeItem(pedidoAcao);
+			pedidoAcao.btnAcao += removerItemDeVez;
 		}
+
+		private void removerItemDeVez(object sender, EventArgs e)
+		{
+			Itens pedidoAcao = (Itens)sender;
+			pedidoAcao.Parent.Controls.Remove(pedidoAcao);
+
+		}
+
 
 		public void receive(byte[] buffer, int size, string ip, int port)
 		{

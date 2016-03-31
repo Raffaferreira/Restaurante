@@ -19,15 +19,12 @@ namespace ExemploUserControl
 
 		public void recebeItem(Itens nomeItem)
 		{
-			Panel1.Controls.Add(nomeItem);
-			
+			flowLayoutPanel1.Controls.Add(nomeItem);	
         }
 
 
-		private void removerItem(object sender, EventArgs e)
-		{
-			Panel1.Controls.Remove((Control)sender);
-		}
+
+
 
 	}
 }
