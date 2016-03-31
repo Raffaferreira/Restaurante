@@ -1,0 +1,27 @@
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.exe.config
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.exe
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.pdb
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.csprojResolveAssemblyReference.cache
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.Form1.resources
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.Properties.Resources.resources
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.csproj.GenerateResource.Cache
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.exe
+c:\users\aluno.bandnet\documents\visual studio 2015\Projects\MenuCheff_Cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.pdb
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.exe.config
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.exe
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.pdb
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.exe
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.pdb
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.Form1.resources
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.Properties.Resources.resources
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.csproj.GenerateResource.Cache
+C:\Users\aluno.BANDNET\Desktop\topicosespeciais_menucheff_cliente\MenuCheff_Cliente\bin\Debug\LibUDP.dll
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.exe.config
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.exe
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.pdb
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.exe
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\bin\Debug\MenuCheff_Cliente.pdb
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\bin\Debug\LibUDP.dll
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.Form1.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.Properties.Resources.resources
+C:\Users\aluno.BANDNET\Downloads\topicosespecias\topicosespeciais_menucheff_cliente-master\MenuCheff_Cliente\obj\Debug\MenuCheff_Cliente.csproj.GenerateResource.Cache
